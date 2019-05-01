@@ -1,0 +1,27 @@
+body {
+    background: #222222;
+    max-width: 1200;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+ li {
+     list-style: none;
+ }
+
+h1 {
+    letter-spacing : 6px;
+    color: #833471;
+    text-align: center;
+}
+
+h3 {
+    color: #10AC84;
+}
+p {
+    color: #FA983A;
+    font-weight: 400;
+    font-size: 18px;
+}
